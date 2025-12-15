@@ -1,0 +1,46 @@
+{
+  "video_path": "C:\\Users\\16083\\Coding\\Behaviour_Tracking\\data\\raw\\Het 230\\post.mp4",
+  "frame_index": 60,
+  "image_width": 1920,
+  "image_height": 1080,
+  "ball_center_fullres": [
+    1557.907468112866,
+    1425.3396359838368
+  ],
+  "ball_radius_fullres": 1017.2933506318403,
+  "n_points": 8,
+  "points_xy": [
+    [
+      626,
+      1028
+    ],
+    [
+      714,
+      851
+    ],
+    [
+      856,
+      677
+    ],
+    [
+      1137,
+      502
+    ],
+    [
+      1520,
+      403
+    ],
+    [
+      1289,
+      452
+    ],
+    [
+      1001,
+      579
+    ],
+    [
+      1626,
+      410
+    ]
+  ]
+}
