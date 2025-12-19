@@ -11,15 +11,15 @@ import matplotlib.pyplot as plt
 
 
 # ===================== USER SETTINGS ===================== #
-PROCESSED_ROOT = r"C:\Users\16083\Coding\Behaviour_Tracking_Self\data\proccessed"
+PROCESSED_ROOT = r"/Users/sowmithbonda/NeuroLab/Behaviour_Tracking_sb/data/proccessed"
 CSV_GLOB = "**/*_ball_speed_fast.csv"     # recursive search inside PROCESSED_ROOT
 
 # Reports will be saved as:
 #   REPORTS_ROOT/<animal_folder>/<video>_report.html
 #   REPORTS_ROOT/<animal_folder>/<video>_report.pdf
-REPORTS_ROOT = r"C:\Users\16083\Coding\Behaviour_Tracking_Self\data\reports"
+REPORTS_ROOT = r"/Users/sowmithbonda/NeuroLab/Behaviour_Tracking_sb/reports(0.06smoothed)"
 
-SMOOTH_WINDOW_SEC = 1.0                  # smoothing window in seconds
+SMOOTH_WINDOW_SEC = 0.06                  # smoothing window in seconds
 MIN_FEATURES_GOOD = 10                   # quality threshold
 
 # PDF settings (used by playwright if available)
