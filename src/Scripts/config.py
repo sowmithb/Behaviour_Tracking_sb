@@ -4,8 +4,8 @@ import json
 import os
 
 # ===================== USER SETTINGS ===================== #
-VIDEO_PATH = r"C:\Users\16083\Coding\Behaviour_Tracking\data\raw\Het 230\post.mp4"
-OUTPUT_CONFIG_PATH = r"C:\Users\16083\Coding\Behaviour_Tracking_Self\data\proccessed\ball_config.json"
+VIDEO_PATH = r"C:\Users\AnalysisRig\OneDrive\Desktop\Savannah\Behaviour_Tracking_sb\data\raw\Cohort 2\11042025\Het 230\induction.mp4"
+OUTPUT_CONFIG_PATH = r"C:\Users\AnalysisRig\OneDrive\Desktop\Savannah\Behaviour_Tracking_sb\src\ball_config.json"
 FRAME_INDEX = 60            # which frame to calibrate on (0 = first)
 MAX_POINTS = 12            # more points = better fit; 6-10 is usually plenty
 # ========================================================= #
