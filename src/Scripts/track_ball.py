@@ -24,7 +24,7 @@ OUTDIR = args.outdir
 BALL_RADIUS_CM = 3.2
 
 # Default config path if --config not provided
-DEFAULT_CONFIG_PATH = r"C:\Users\16083\Coding\Behaviour_Tracking_Self\data\proccessed\ball_config.json"
+DEFAULT_CONFIG_PATH = r"C:\Users\AnalysisRig\OneDrive\Desktop\Savannah\Behaviour_Tracking_sb\src\ball_config.json"
 BALL_CONFIG_PATH = args.config if args.config else DEFAULT_CONFIG_PATH
 
 # Debug / FPS
