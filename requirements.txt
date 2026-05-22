@@ -1,0 +1,8 @@
+numpy
+pandas
+opencv-python
+matplotlib
+plotly
+tqdm
+playwright
+reportlab

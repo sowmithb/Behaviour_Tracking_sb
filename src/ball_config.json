@@ -1,0 +1,46 @@
+{
+  "video_path": "C:\\Users\\AnalysisRig\\OneDrive\\Desktop\\Savannah\\Behaviour_Tracking_sb\\data\\raw\\Cohort 2\\11042025\\Het 230\\induction.mp4",
+  "frame_index": 60,
+  "image_width": 1920,
+  "image_height": 1080,
+  "ball_center_fullres": [
+    1590.0002870285116,
+    1448.1563209444262
+  ],
+  "ball_radius_fullres": 1042.895206364662,
+  "n_points": 8,
+  "points_xy": [
+    [
+      644,
+      1019
+    ],
+    [
+      742,
+      837
+    ],
+    [
+      1052,
+      570
+    ],
+    [
+      1559,
+      405
+    ],
+    [
+      1232,
+      464
+    ],
+    [
+      1106,
+      522
+    ],
+    [
+      831,
+      728
+    ],
+    [
+      698,
+      900
+    ]
+  ]
+}
